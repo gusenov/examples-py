@@ -1,6 +1,7 @@
 # Модульность
 
 - [В одной папке импорт файла с функцией в скрипт](import/imp-file-with-fn-into-script)
+- [Пакет и подпакет](import/package-and-subpackage)
 
 # Регулярные выражения
 
